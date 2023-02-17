@@ -1,10 +1,9 @@
 # Higher-level programming - Python, Databases & JavaScript
 
 This repository contains programs written for the higher-level programming
-track at Holberton School. In these projects, which began occurring in month
-four of the year one curriculum, I learned Python, MySQL and JavaScript.
+section of ALX Africa. In these projects, I learned Python, MySQL and JavaScript.
 Simultaneously, I continued to reinforce and expand my skills in C and shell
-scripting. The specific list of projects contained follows:
+scripting. The specific list of projects contained is:
 
 * [0x00. Python - Hello, World](./0x00-python-hello_world)
 * [0x01. Python - if/else, loops, functions](./0x01-python-if_else_loops_functions)
@@ -29,20 +28,20 @@ scripting. The specific list of projects contained follows:
 * [0x14. Javascript - Web scraping](./0x14-javascript-web_scraping)
 * [0x15. Javascript - Web JQuery](./0x15-javascript-web_jquery)
 
-## Author :black_nib:
+## Author Nuwabiine Mbiine Bona:
 
-* **Brennan D Baraban** <[bdbaraban](https://github.com/bdbaraban)>
+* **Nuwabiine Mbiine Bona** <[bona96](https://github.com/bona96)>
 
-## Acknowledgements :pray:
+## Acknowledgements :God Alone:
 
 All work contained in this project was completed as part of the curriculum for
-Holberton School. Holberton School is a campus-based full-stack software
-engineering program that prepares students for careers in the tech industry
+ALX Software Engineering. ALX is an online-based software engineering program 
+that prepares individuals for careers in the tech industry
 using project-based peer learning. For more information, visit
-[this link](https://www.holbertonschool.com/).
+[this link](https://www.alxafrica.com/).
 
 <p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png"
-       alt="Holberton School logo"
+  <img src="https://www.alxafrica.com/wp-content/uploads/2022/12/logo-white.svg"
+       alt="ALX logo"https://www.alxafrica.com/wp-content/uploads/2022/12/logo-white.svg
   >
 </p>
